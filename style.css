@@ -1,0 +1,27 @@
+.container{
+    margin-bottom: 50px;
+}
+.buy-now-button{
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+.card{
+    border:none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+//slider background color test//
+#slides{
+    background-color: grey !important;
+  }
+  
+  .carousel{
+    background-color: grey !important;
+  }
+  .carousel .item{
+    background-color: grey;
+  }
